@@ -12,13 +12,13 @@ The paper presents a methodology for social distancing detection using deep lear
 ***to install the python dependencies related to this project like opencv,numpy,scipy etc.***
 * **Run the command** `time python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1
 ` ***to run your social distance detection project***
-***For yolov3.weigths file***
+# For yolov3.weigths file 
 https://pjreddie.com/darknet/yolo/
 
--> run commands on terminal
-->then copy yolov3.weights files
-->copy in **yolo-coco** files name
-->then run on above commands
+* run commands on terminal
+* then copy yolov3.weights files
+* copy in **yolo-coco** files name
+* then run on above commands
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
 ![Output avi gif](https://github.com/prabhatap20/Social-distance-detection/blob/main/social%20distance%20detection.gif)
